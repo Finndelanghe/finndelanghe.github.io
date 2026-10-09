@@ -1,1 +1,48 @@
+* {
+    font-family: verdana;
+}
+
+.pokemonkaart {
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    float: left;
+}
+
+.achtergrond-geel {
+    background-color: rgb(254, 255, 203);
+}
+
+.achtergrond-groen {
+    background-color: rgb(211, 255, 206);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+h4 {
+    text-align: center;
+    color: gray;
+    margin-top: 0;
+}
+
+img {
+    width: 215px;
+}
+
+.type1 {
+    border-radius: 20px;
+    background-color: rgb(255, 255, 102);
+    padding: 10px;
+    width: 150px;
+    margin: 15px auto;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
 
