@@ -1,1 +1,29 @@
+body {
+    font-family: serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+
+h1 {
+    background: #ff00ea;
+    font-family: sans-serif;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ff00ea;
+    margin: 15px 0;
+}
+
+
+.box {
+    border: 1.5px solid #ff00ea;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 15px;
+}
 
