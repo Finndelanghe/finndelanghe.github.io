@@ -11,12 +11,18 @@
 }
 
 .achtergrond-geel {
-    background-color: rgb(254, 255, 203);
+    background-color: yellow;
 }
 
 .achtergrond-groen {
-    background-color: rgb(211, 255, 206);
+    background-color: green;
 }
+
+.achtergrond-oranje {
+    background-color: orange;
+}
+
+
 
 h1 {
     text-align: center;
