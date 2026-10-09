@@ -3,47 +3,52 @@
 }
 
 .pokemonkaart {
-    border-radius: 15px;
-    padding: 20px;
-    margin: 10px;
-    width: 250px;
+    border-radius: 18px;
+    padding: 25px 20px;
+    margin: 15px;
+    width: 280px;
     float: left;
 }
 
 .achtergrond-geel {
-    background-color: yellow;
+    background-color: rgb(254, 255, 203);
 }
 
 .achtergrond-groen {
-    background-color: green;
+    background-color: rgb(211, 255, 206);
 }
-
 
 h1 {
     text-align: center;
+    margin-top: 10px;
     margin-bottom: 5px;
+    font-size: 2rem;
 }
 
 h4 {
     text-align: center;
-    color: gray;
+    color: rgb(130, 130, 130);
     margin-top: 0;
+    margin-bottom: 25px;
 }
 
 img {
     width: 215px;
+    display: block;
+    margin: 0 auto;
 }
 
 .type1 {
-    border-radius: 20px;
     background-color: rgb(255, 255, 102);
-    padding: 10px;
-    width: 150px;
-    margin: 15px auto;
-    font-weight: bold;
+    border-radius: 20px;
+    padding: 10px 0;
+    width: 170px;
+    margin: 20px auto 15px auto;
+    font-size: 0.95rem;
 }
 
 p {
     text-align: center;
+    margin: 10px 0;
 }
 
