@@ -32,6 +32,9 @@ titelbalk {
     text-indent:50px;
 
   }
+.text {
+    margin: 20px;
+    font-size: 24px
 
 img{
    width:100%; 
