@@ -11,62 +11,51 @@ body {
 	margin-right: auto;
 }
 body#background {
-	background-image: url("img/001.png");
+	background-image: url("sources/001.png");
 	background-position: center;
 	background-repeat: no-repeat;
 }
 #banner {
 	width: 100%;
 }
-
-
-
-	
-titelbalk {
-    
-    height:100px;
-    background-color:#F7DA5C;
-    align-content:center;
-    overflow:initial;
-    color:black;
-    text-indent:50px;
-
-  }
-.text {
-    margin: 20px;
-    font-size: 24px
-
-img{
-   width:100%; 
-   
+.bar {
+	width: 100%;
+	background-color: rgb(247,218,92);	
 }
-
-
-nav {
-	background-color: #F7DA5C;
-	padding: 8px;
+.bar p {
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	text-align: center;
-	font-weight: bold;
-	margin-bottom: 20px;
-
 }
-	
-.pokemon-img {
-	width: 40px;
-	height: 40px;
+.paragraaf {
+	text-indent: 50px;
 }
-
-th, td {
-	border: 1px solid #ccc;
-	padding: 10px;
-}
-
-th {
-	font-weight: bold;
-}
-
 table {
 	width: 100%;
 	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid rgba(127, 127, 127, 0.5);
+	padding: 10px;
+}
+.rechts {
+	text-align: right;
+}
+.type {
 	text-align: center;
+}
+.type img {
+	width: 20px;
+	color: black;
+}
+.afbeelding {
+	text-align: center;
+}
+.afbeelding img {
+	width: 40px;
+}
+li img {
+	width: 16px;
+	height: 16px;
 }
