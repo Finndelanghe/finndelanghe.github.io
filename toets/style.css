@@ -41,14 +41,17 @@ img{
    
 }
 
-pokemon-bar {
-    width: 100%;
-    height: 52px;
-    background-color: #F7DA5C;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-top: 3px solid white;
+
+nav {
+	background-color: #F7DA5C;
+	padding: 8px;
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 20px;
+
 }
-
-
+	
+.pokemon-img {
+	width: 40px;
+	height: 40px;
+}
